@@ -6,6 +6,7 @@ for(let i=1;i<=num;i++){
   }
 }
 if(factor==2){
+
   console.log("Yes")
 }else{
   console.log("No")
